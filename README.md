@@ -18,7 +18,7 @@ Frontend Web Developer focused on building modern, responsive, and fast websites
 
 ## Featured Project
 
-![Business Website](assets/website.png)
+![Business Website](image.png)
 
 
 ## Contact
