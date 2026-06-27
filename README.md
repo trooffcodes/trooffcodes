@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ansh 👋
 
-<!--
-**trooffcodes/trooffcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Web Developer focused on building modern, responsive, and fast websites for businesses.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Frontend: HTML, CSS, JavaScript
+- 🐍 Python
+- ⚡ C++
+- 🦫 Go
+
+## What I Build
+
+- Business websites
+- Landing pages
+- Responsive web applications
+- Custom frontend interfaces
+
+## Featured Project
+
+![Business Website](assets/website.png)
+
+
+## Contact
+
+📧 **trooffcodes@gmail.com**
